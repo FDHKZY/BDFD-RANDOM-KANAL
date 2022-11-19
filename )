@@ -1,0 +1,13 @@
+{prefix}random-kanal
+
+```
+
+$nomention
+
+$color[$random[0;99999]]
+
+$author[Random Kanal]
+
+$description[Random Seçtiğim Kanal: <#$randomChannelID>] 
+
+```
